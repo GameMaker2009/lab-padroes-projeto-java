@@ -1,0 +1,60 @@
+package one.digitalinnovation.gof;
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nome</th>
+      <th>Tipo</th>
+      <th>Modelo</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>Singleton</td>
+      <td>Introdução ao Lab</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Formas de Contribuir num Projeto Open Source</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Desenvolvendo e Enviando uma Contribuição</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Dicas e Materiais de Apoio</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
+
+/**
+ * Singleton "preguiçoso"
+ * @author Izaque
+ *
+ */
+public class SingletonLazy {
+
+}
